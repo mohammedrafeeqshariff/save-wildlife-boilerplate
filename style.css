@@ -30,8 +30,7 @@ nav,
   background-color: black;
   height: 60px;
   /* Your code goes here */
-  display: flex;
-  align-items: center;
+  padding-top: 10px;
 
 }
 
